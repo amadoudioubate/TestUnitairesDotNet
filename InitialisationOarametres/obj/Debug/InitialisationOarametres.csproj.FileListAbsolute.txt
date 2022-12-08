@@ -1,0 +1,6 @@
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\bin\Debug\InitialisationOarametres.dll
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\bin\Debug\InitialisationOarametres.pdb
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\obj\Debug\InitialisationOarametres.csproj.AssemblyReference.cache
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\obj\Debug\InitialisationOarametres.csproj.CoreCompileInputs.cache
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\obj\Debug\InitialisationOarametres.dll
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\InitialisationOarametres\obj\Debug\InitialisationOarametres.pdb

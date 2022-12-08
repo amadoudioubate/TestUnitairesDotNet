@@ -1,0 +1,15 @@
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFR.exe.config
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFR.exe
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFR.pdb
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFramework.dll
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFramework.xml
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.csproj.AssemblyReference.cache
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.csproj.CoreCompileInputs.cache
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.csproj.CopyComplete
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.exe
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.pdb
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.Migrations.InitialModel.resources
+C:\Users\Admin Stagiaire\Desktop\TestUnitaires\EntityFR\obj\Debug\EntityFR.csproj.GenerateResource.cache
